@@ -1,1 +1,3 @@
-# supplemental_instruction_bayes
+# Supplemental Instruction Analysis
+
+This analysis investigates the effect of supplemental instruction (SI) on DFW rates at California State University, Chico. A common argument against SI is that the self-selection component of SI introduces too much bias because it is believed that motivated and academically well-prepared students will enroll in SI. This would make SI results seem much better when compared with students who do not attend SI. However, this analysis controls for academic preparedness and other demographic variables. The results suggest that after controlling for such variables, SI reduces the odds of a student receiving a D, F, or withdrawing from a class by almost half compared to students who do not attend SI. A random intercepts, logistic regression model with a Bayesian framework was used for this analysis. This repository contains a report and sample code. 
